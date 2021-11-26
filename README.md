@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mateus, welcome to my profile 😀
+### Hi there 👋, I'm Mateus. Welcome to my profile 😀
 
 <div align="center">
   <a href="https://github.com/mateusbrodrigues">
