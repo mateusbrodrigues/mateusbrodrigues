@@ -1,7 +1,7 @@
 ### <h1 align="center"> Hi, I'm Mateus 👋 </h1>
 <br>
 
-Passionate about learning new technologies. Currently focused on developing full-stack solutions.
+<p align="center">  Passionate about learning new technologies. Currently focused on developing full-stack solutions.</p>
 
 <br>
 <div align="center">
